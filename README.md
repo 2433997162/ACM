@@ -1,4 +1,4 @@
-# Information-Technology
-关于信息的东西
+# ACM
+关于程序设计竞赛的东西
 
-some things about Information Technology
+some things about ACM
